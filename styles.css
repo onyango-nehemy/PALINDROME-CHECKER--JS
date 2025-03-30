@@ -1,0 +1,51 @@
+body{
+  background-color:#4B0082;
+}
+header img{
+  width: 15%;
+  font-weight: bold;
+}
+header h1{
+  font-size: 40px;
+  font-weight: bold;
+}
+div.heading{
+  text-align: center;
+  margin: 50px;
+}
+div.pali{
+  margin: 50px auto;
+  text-align: center;
+  border-radius: 24px;
+  border: 2px solid black;
+  width: 35%;
+  font-size: 25px;
+  padding: 50px;
+  background-color: aliceblue;
+}
+div.p1{
+  margin: 50px auto;
+  text-align: center;
+  border-radius: 24px;
+  border: 2px solid black;
+  width: 35%;
+  font-size: 25px;
+  padding: 50px;
+  background-color: #556B2F;
+
+}
+div.pali input{
+  padding: 5px;
+  width: 60%;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid blue; 
+  
+}
+div.pali button{
+  background-color: blue;
+  font-size: 20px;
+  border: 24px;
+  border-radius: 24px;
+  cursor: pointer;
+}
